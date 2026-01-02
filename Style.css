@@ -4,7 +4,7 @@ body {
   color: #333;
   margin: 0;
 }
-header { text-align: center; padding: 3rem 1rem; }
+header { text-align: left; padding: 3rem 1rem; }
 main { max-width: 720px; margin: auto; padding: 1rem; }
 article { background: #fff; padding: 2rem; border-radius: 14px; }
 .date { color: #888; font-size: 0.9rem; }
